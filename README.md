@@ -5,7 +5,6 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 
 ### 🛠 Tools & Technologies  
 - **Power BI** – Data visualization and dashboard creation  
-- **DAX** – Measures and calculations  
 - **Data Modeling** – Structuring relationships between data  
 - **Excel/CSV** – Data source preprocessing (if applicable)  
 
@@ -16,14 +15,5 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 ✔️ **Breaking into Data Careers** – Perceived difficulty by respondents  
 
 ### 📷 Dashboard Preview  
-*(Add a screenshot here – you can upload the image to GitHub and use its URL in markdown: `![Alt Text](image_url)`)  
-
-### 📂 Files Included  
-- `Dashboard.pbix` – Power BI project file  
-- `Datasets.xlsx` (or CSV) – Data source  
-- `README.md` – Project documentation  
-
-### 🚀 How to Use  
-1. Download the `.pbix` file and open it in Power BI Desktop.  
-2. Connect to the dataset if necessary.  
-3. Explore the interactive visualizations and insights.
+# Data Professional Survey
+![Dasboard](dashboard.jpg)
