@@ -20,7 +20,7 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 
 ### 📂 Files Included  
 - `Dashboard.pbix` – Power BI project file  
-- `Dataset.xlsx` (or CSV) – Data source  
+- `Datasets.xlsx` (or CSV) – Data source  
 - `README.md` – Project documentation  
 
 ### 🚀 How to Use  
