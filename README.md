@@ -26,11 +26,4 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 ### 🚀 How to Use  
 1. Download the `.pbix` file and open it in Power BI Desktop.  
 2. Connect to the dataset if necessary.  
-3. Explore the interactive visualizations and insights.  
-
-### 🔗 Live Demo / Additional Resources  
-*(If you have a link to a shared Power BI report or a Google Drive file, add it here.)*  
-
----
-
-You can create a GitHub repository, upload the `.pbix` file, dataset, and this **README.md** file to make your project look professional. Would you like help setting up the repo or writing a commit message? 🚀
+3. Explore the interactive visualizations and insights.
